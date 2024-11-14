@@ -10,7 +10,9 @@ function App() {
         <p>
           leaming
         </p>
-        <Component />
+        <div>
+          <Component />
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -28,3 +30,30 @@ export default App;
 
 // create a custom component in src folder
 // an ordered list of my top 5 favorite random things
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
